@@ -6,7 +6,7 @@ tags:
 - Life
 - Food
 layout: post
-header_feature_image: _uploads/waves.jpg
+header_feature_image: _uploads/log.jpg
 caption: Juicy Tomatoes
 ---
 
