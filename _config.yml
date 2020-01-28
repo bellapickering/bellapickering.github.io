@@ -41,10 +41,10 @@ favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
 header_text: Blog's and Recipes
-recipecollection: Your recipe collection
+recipecollection: Seafood
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /uploads/waves.jpg
+header_feature_image: /uploads/sea.jpg.jpg
 recipe_bookcover: /uploads/bookcover.jpg
 
 twitter_username:   #change to your own twitter account
