@@ -1,5 +1,5 @@
 ---
-title: Week 1 Blog
+title: Sample Post Blog
 date: 2019-10-19 00:00:00 Z
 tags:
 - Journalism
