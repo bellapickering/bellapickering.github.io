@@ -6,8 +6,8 @@ tags:
 - Life
 - Food
 layout: post
-header_feature_image: _uploads/log.jpg
-caption: Juicy Tomatoes
+header_feature_image: _uploads/Waves.jpg
+caption: Waves
 ---
 
 This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
