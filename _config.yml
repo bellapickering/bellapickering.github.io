@@ -40,7 +40,7 @@ avatar: assets/img/face.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
-header_text: My blog and my recipes
+header_text: Blog's and Recipes
 recipecollection: Your recipe collection
 
 # find an image for your own home page and put it into the images folder
@@ -51,7 +51,7 @@ twitter_username:   #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2020 My name"
+    "Copyright 2020 Bella Pickering"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
