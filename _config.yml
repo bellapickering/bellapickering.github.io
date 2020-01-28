@@ -35,7 +35,7 @@ defaults:
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://bellapickering.github.io"   #change this to yours
-title: Bellas Blogs and Recipes # site's title
+title: Bella Pickering # site's title
 description: "A website with blog posts and recipes" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
@@ -56,7 +56,7 @@ header_text: My blog and my recipes
 recipecollection: Your recipe collection
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /uploads/pages.jpg
+header_feature_image: /uploads/Waves.jpg
 recipe_bookcover: /uploads/bookcover.jpg
 
 twitter_username:   #change to your own twitter account
@@ -71,7 +71,7 @@ email_address: # Full email address, e.g. "sam@example.com"
 facebook:
 flickr:
 google_plus:
-instagram:
+instagram:bella_pickering12
 linkedin:  # Full URL
 pinterest:
 soundcloud:
