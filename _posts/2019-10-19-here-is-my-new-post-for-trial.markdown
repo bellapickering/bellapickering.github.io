@@ -1,12 +1,12 @@
 ---
-title: Here is a sample blog post
+title: Week 1 Blog
 date: 2019-10-19 00:00:00 Z
 tags:
 - Journalism
 - Life
 - Food
 layout: post
-header_feature_image: _uploads/tomatoes.jpg
+header_feature_image: _uploads/waves.jpg
 caption: Juicy Tomatoes
 ---
 
