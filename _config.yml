@@ -1,12 +1,14 @@
-# collections
+---
+title: Bellas Blogs and Recipes
+timezone: UTC
 collections:
-  recipes:
-    title: Recipes
-    output: true
-    excerpt_separator: <!--more-->
   posts:
     title: Posts
     output: true
+  recipes:
+    title: Recipes
+    output: true
+    excerpt_separator: "<!--more-->"
   uploads:
     title: Uploads
     output: true
@@ -16,20 +18,21 @@ defaults:
     type: posts
   values:
     layout: post
-    header_feature_image:
-    caption:
+    header_feature_image: 
+    caption: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    header_feature_image:
-    caption:
+    header_feature_image: 
+    caption: 
 - scope:
     path: ''
     type: recipe
   values:
     layout: recipe
+<<<<<<< HEAD
     order:
 
 # SITE CONFIGURATION
@@ -41,19 +44,19 @@ description: "A website with blog posts and recipes" # used by search engines
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
+=======
+    order: 
+baseurl: ''
+url: https://bellapickering.github.io
+description: A website with blog posts and recipes
+>>>>>>> 8ed764a2077066a2b1c32c2a90ae46f83f79d954
 avatar: assets/img/face.jpg
 favicon: assets/favicon.ico
-
-# Your blog on the home page can be arranged as a grid
-
-gridlayout: false # change to true if you want grd layout
-recipemenu: false # you can change to true and a menu of all recipes will appear
-
-# Header and footer text
-# Change this text to yourown
+gridlayout: false
+recipemenu: false
 header_text: My blog and my recipes
-
 recipecollection: Your recipe collection
+<<<<<<< HEAD
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: /uploads/Waves.jpg
@@ -79,42 +82,56 @@ twitter: # "twitter username"
 youtube:
 
 # Sharing options
+=======
+header_feature_image: "/uploads/pages.jpg"
+recipe_bookcover: "/uploads/bookcover.jpg"
+twitter_username: 
+lang: en_gb
+footer_text: Copyright 2020 My name
+rss: false
+email_address: 
+facebook: 
+flickr: 
+google_plus: 
+instagram: 
+linkedin: 
+pinterest: 
+soundcloud: 
+twitter: 
+youtube: 
+>>>>>>> 8ed764a2077066a2b1c32c2a90ae46f83f79d954
 share_buttons:
   facebook: true
   twitter: true
-  tumblr:
-  pinterest:
-  linkedin:
+  tumblr: 
+  pinterest: 
+  linkedin: 
   email: true
-
-# Scripts / Features
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
-disqus_shortname: # create an account on disqus.com for comments
-
-# Localization strings
-str_follow_on: "Follow on"
-str_rss_follow: "Follow RSS feed"
-str_share_on: "Share on"
-str_add_to: "Add to"
-str_email: "Email"
-str_tweet: "Tweet"
-str_pin_it: "Pin it"
-str_next_post: "Next post"
-str_previous_post: "Previous post"
-str_next_page: "Next"
-str_previous_page: "Prev"
-str_javascript_required_disqus: "Please enable JavaScript to view comments."
-
-# Post navigation
+google_analytics: 
+disqus_shortname: 
+str_follow_on: Follow on
+str_rss_follow: Follow RSS feed
+str_share_on: Share on
+str_add_to: Add to
+str_email: Email
+str_tweet: Tweet
+str_pin_it: Pin it
+str_next_post: Next post
+str_previous_post: Previous post
+str_next_page: Next
+str_previous_page: Prev
+str_javascript_required_disqus: Please enable JavaScript to view comments.
 post_navigation: true
-
-# PAGINATION
 paginate: 10
-paginate_path: "blog/page:num"
-
-# BUILD SETTINGS
+paginate_path: blog/page:num
 markdown: kramdown
 permalink: pretty
 highlighter: rouge
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
-exclude: [".jekyll-cache", "Gemfile", "README.md"]
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap
+exclude:
+- ".jekyll-cache"
+- Gemfile
+- README.md
