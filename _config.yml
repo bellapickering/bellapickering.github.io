@@ -1,5 +1,5 @@
 ---
-title: Bellas Blogs and Recipes
+title: Bella Pickering
 timezone: UTC
 collections:
   posts:
@@ -40,8 +40,8 @@ avatar: assets/img/face.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
-header_text: Blog's and Recipes
-recipecollection: Seafood
+header_text: Blogs and Recipes
+recipecollection: A Collection of Seafood Recipes
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: /uploads/sea.jpg
@@ -55,7 +55,7 @@ footer_text:
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
-email_address: # Full email address, e.g. "sam@example.com"
+email_address: 16103785@brookes.ac.uk # Full email address, e.g. "sam@example.com"
 facebook:
 flickr:
 google_plus:
