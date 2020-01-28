@@ -3,9 +3,9 @@ title: About
 permalink: "/about/"
 layout: page
 subtitle: All about me and my life
-header_feature_image: "/uploads/log.jpg"
+header_feature_image: "/uploads/Sunflowers.jpg"
 tags: 
-description: 
+description:
 ---
 
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
