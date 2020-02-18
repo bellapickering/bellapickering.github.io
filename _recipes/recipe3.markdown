@@ -1,22 +1,24 @@
 ---
-title: Lobster Tails
+title: Butter Garlic Herb Broiled Lobster Tails
 date: 2019-10-19 00:00:00 Z
 tags:
-- Greek
-- Meat
-- Hot
+- South Africa
+- Fish
+- Lobster
+- Lobster Tails
+- Broiled
 layout: recipe
 excerpt_separator: "<!--more-->"
 order:
 ---
 
-# Lobster Tails
+# BUtter Garlic Herb Broiled Lobster Tails
 
-There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
+Butter Garlic Herb Broiled Lobster is a decadent dinner that comes together quickly and easily.
 
 <!--more-->
 
-[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
+[![Lobster Tails](/_uploads/Lobstertailsrecipe1.jpg)](/_uploads/Lobstertailsrecipe1.jpg)
 
 ## Ingredients
 
