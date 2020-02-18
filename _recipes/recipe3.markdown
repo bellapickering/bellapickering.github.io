@@ -12,7 +12,7 @@ excerpt_separator: "<!--more-->"
 order:
 ---
 
-# BUtter Garlic Herb Broiled Lobster Tails
+# Butter Garlic Herb Broiled Lobster Tails
 
 Butter Garlic Herb Broiled Lobster is a decadent dinner that comes together quickly and easily.
 
