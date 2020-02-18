@@ -14,7 +14,7 @@ order:
 
 # Honey Mustard Salmon in Foil
 
-**This Honey Mustard Salmon recipe features a homemade honey mustard sauce that is super delicious (and easy to adapt if you like to go heavier on the honey or mustard side).  It can also be cooked quickly and easily in the oven or on the grill**
+**This Honey Mustard Salmon recipe features a homemade honey mustard sauce that is super delicious (and easy to adapt if you like to go heavier on the honey or mustard side).  It can also be cooked quickly and easily in the oven or on the grill.**
 
 
 <!--more-->
