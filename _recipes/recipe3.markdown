@@ -46,11 +46,7 @@ Butter Garlic Herb Butter Garlic Herb Broiled Lobster is a decadent dinner that 
 
 [![Butterflying Lobster Tails](/_uploads/butterflying-lobster-tails.png)](/_uploads/butterflying-lobster-tails.png)
 
-Broiling Times for Lobster Tails:
-- Smaller lobsters 6 to 8 minutes
-- Medium lobsters 10-11 minutes
-- Larger lobsters 12-15 minutes (with rack in middle of oven)
-- Broil lobster meat until opaque and white in the center, or 145˚F.
+
 
 ## Method
 
@@ -61,3 +57,9 @@ Broiling Times for Lobster Tails:
 5. To make the Garlic Lemon Butter: drain drippings from the roasting pan into a small saucepan and combine with remaining 2 Tbsp butter, bring to a simmer and remove from heat. Pour over lobster tails or divide into small ramekins and use as dipping sauce.
 
 [![garlicbutter](/_uploads/garlicbutter.png)](/_uploads/garlicbutter.png)
+
+Broiling Times for Lobster Tails:
+- Smaller lobsters 6 to 8 minutes
+- Medium lobsters 10-11 minutes
+- Larger lobsters 12-15 minutes (with rack in middle of oven)
+- Broil lobster meat until opaque and white in the center, or 145˚F.
