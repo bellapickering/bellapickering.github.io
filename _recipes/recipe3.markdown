@@ -14,34 +14,30 @@ order:
 
 # Butter Garlic Herb Broiled Lobster Tails
 
-Butter Garlic Herb Broiled Lobster is a decadent dinner that comes together quickly and easily.
+Butter Garlic Herb Butter Garlic Herb Broiled Lobster is a decadent dinner that comes together quickly and easily. The broiled lobster meat is crazy tender, juicy and each bite is tantalizingly flavorful, especially after dipping into the warm garlic lemon butter.
+
 
 <!--more-->
 
-[![Lobster Tails](/_uploads/Lobstertailsrecipe1.jpg)](/_uploads/Lobstertailsrecipe1.jpg)
+[![Lobster Tails](/_uploads/recipe1.jpg)](/_uploads/recipe1.jpg)
 
 ## Ingredients
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+- 4 lobster tails
+- 1 Tbsp fresh parsley, very finely chopped, plus more for garnish
+- 2 garlic cloves, pressed
+- 1 tsp dijon mustard
+- 1/4 tsp salt
+- 1/8 tsp black pepper
+- 1 1/2 Tbsp olive oil
+- 1 1/2 Tbsp fresh lemon juice
+- 4 Tbsp unsalted butter, divided
 
+
+### Preparation/ Butterflying the Lobster Tails
+1. Use kitchen scissors to cut through the top shell of the lobster tail, stopping at the base of the tail and snipping through the top portion of the meat as you go.
+2. Flip the tail over to the back see-through side of the tail and crack the ribs in the center. This will help open the shell.
+3. Open the shell using your thumbs and fingers and loosen the meat from the shell (remove vein if present). Work carefully – shells can be sharp! Lift the meat from the shell, keeping it attached at the base. Press the shell together and set the lobster meat over the top. The bulk of the lobster meat should be sitting over the top of the shell.
 
 ## Method
 
