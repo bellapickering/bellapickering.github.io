@@ -7,7 +7,7 @@ tags:
 - Hot
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 
+order:
 ---
 
 # Moussaka
