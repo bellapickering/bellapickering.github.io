@@ -52,11 +52,11 @@ order:
 1. 1.Place rack in center of oven so when you bake, the meaty tops of your lobster tails will be at least 6 inches from the top heating elements. Preheat the oven to broil on high heat.
 2. In a small bowl, add the marinade ingredients:
 - 1 Tbsp parsley,
-  - 2 pressed garlic cloves,
-  - 1 tsp dijon, 1/4 tsp salt,
-  - 1/8 tsp pepper,
-  - 1 1/2 Tbsp olive oil
-  - 1 1/2 Tbsp lemon juice.
+- 2 pressed garlic cloves,
+- 1 tsp dijon, 1/4 tsp salt,
+- 1/8 tsp pepper,
+- 1 1/2 Tbsp olive oil
+- 1 1/2 Tbsp lemon juice.
   Stir to combine.
 3. 3.Place butterflied Lobster Tails into a roasting pan. Divide the marinade evenly over the tops of each lobster tail and dot each tail all over with 1/2 Tbsp of butter cut into smaller pieces
 4. Broil lobster tails on high 10-11 minutes (or according to the lobster tail size – see chart below). When done, lobster meat should be opaque and white in the center and register 145˚F on an instant read thermometer. Transfer lobster tails to a serving platter and garnish with fresh parsley if desired.
