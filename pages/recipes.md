@@ -3,14 +3,14 @@ title: Recipes
 permalink: "/recipes/"
 layout: recipeshome
 subtitle: My Recipe Site
-tags: 
+tags:
 hide: true
 ---
 
-Here is an introduction to my recipe site
+**A collection of delicious recipes from the South African Shores **
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
+Take a break from the ordinary and basic methods of cooking seafood and join us to discover a new innovative way to cook your favourites. Combining exciting new ingredients to create mouth watering dishes, that bring out the best in everything from whole fish to prawns, lobsters, calamari and all thats in between under the sea.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Taking influence from Southern Africa, The Big Catch: Hooked and Cooked have carefully selected and combined a selection of creative and delicious seafood recipes. Including everything you need to know, with helpful tips on how to sustainability source, buy and prepare your fish and seafood before cooking.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+_Whatever your reason for loving seafood this is the cookbook you should have open on your kitchen countertop. Guaranteed to impress and have everyone begging for seconds as well as the recipe. _
