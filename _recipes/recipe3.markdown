@@ -37,14 +37,13 @@ Butter Garlic Herb Butter Garlic Herb Broiled Lobster is a decadent dinner that 
 - 1 1/2 Tbsp fresh lemon juice
 - 4 Tbsp unsalted butter, divided
 
-[![ingredients](/_uploads/ingredients.png)](/_uploads/ingredients.png)
+
 
 ### Preparation/ Butterflying the Lobster Tails
 1. Use kitchen scissors to cut through the top shell of the lobster tail, stopping at the base of the tail and snipping through the top portion of the meat as you go.
 2. Flip the tail over to the back see-through side of the tail and crack the ribs in the center. This will help open the shell.
 3. Open the shell using your thumbs and fingers and loosen the meat from the shell (remove vein if present). Work carefully – shells can be sharp! Lift the meat from the shell, keeping it attached at the base. Press the shell together and set the lobster meat over the top. The bulk of the lobster meat should be sitting over the top of the shell.
 
-[![Butterflying Lobster Tails](/_uploads/butterflying-lobster-tails.png)](/_uploads/butterflying-lobster-tails.png)
 
 
 
@@ -56,7 +55,7 @@ Butter Garlic Herb Butter Garlic Herb Broiled Lobster is a decadent dinner that 
 4. Broil lobster tails on high 10-11 minutes (or according to the lobster tail size – see chart below). When done, lobster meat should be opaque and white in the center and register 145˚F on an instant read thermometer. Transfer lobster tails to a serving platter and garnish with fresh parsley if desired.
 5. To make the Garlic Lemon Butter: drain drippings from the roasting pan into a small saucepan and combine with remaining 2 Tbsp butter, bring to a simmer and remove from heat. Pour over lobster tails or divide into small ramekins and use as dipping sauce.
 
-[![garlicbutter](/_uploads/garlicbutter.png)](/_uploads/garlicbutter.png)
+
 
 Broiling Times for Lobster Tails:
 - Smaller lobsters 6 to 8 minutes
