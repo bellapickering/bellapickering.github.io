@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Blogging
+title: Bloggers and Influencers
 date: 2020-01-28 14:35
 published: false
 header_feature_image: _uploads/Blogging.jpg
-caption: 
-tags:    # use [tag1,tag2]
+caption:
+tags:    # Blog #social media  use [tag1,tag2]
 ---
