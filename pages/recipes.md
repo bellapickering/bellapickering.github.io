@@ -4,7 +4,7 @@ permalink: "/recipes/"
 layout: recipeshome
 subtitle: My Recipe Site
 tags:
-hide: true
+hide: False
 ---
 
 **A collection of delicious recipes from the South African Shores **
