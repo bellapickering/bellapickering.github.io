@@ -15,7 +15,7 @@ order:
 
 # Butter Garlic Herb Broiled Lobster Tails
 
-Butter Garlic Herb Butter Garlic Herb Broiled Lobster is a decadent dinner that comes together quickly and easily. The broiled lobster meat is crazy tender, juicy and each bite is tantalizingly flavorful, especially after dipping into the warm garlic lemon butter.
+**Butter Garlic Herb Butter Garlic Herb Broiled Lobster is a decadent dinner that comes together quickly and easily. The broiled lobster meat is crazy tender, juicy and each bite is tantalizingly flavorful, especially after dipping into the warm garlic lemon butter.**
 
 
 <!--more-->
@@ -50,8 +50,15 @@ Butter Garlic Herb Butter Garlic Herb Broiled Lobster is a decadent dinner that 
 ## Method
 
 1. 1.Place rack in center of oven so when you bake, the meaty tops of your lobster tails will be at least 6 inches from the top heating elements. Preheat the oven to broil on high heat.
-2. In a small bowl, add the marinade ingredients: 1 Tbsp parsley, 2 pressed garlic cloves, 1 tsp dijon, 1/4 tsp salt, 1/8 tsp pepper, 1 1/2 Tbsp olive oil and 1 1/2 Tbsp lemon juice. Stir to combine.
-3. 3.Place butterflied Lobster Tails into a 9×13 or 8×12 roasting pan. Divide the marinade evenly over the tops of each lobster tail and dot each tail all over with 1/2 Tbsp of butter cut into smaller pieces
+2. In a small bowl, add the marinade ingredients:
+- 1 Tbsp parsley,
+  - 2 pressed garlic cloves,
+  - 1 tsp dijon, 1/4 tsp salt,
+  - 1/8 tsp pepper,
+  - 1 1/2 Tbsp olive oil
+  - 1 1/2 Tbsp lemon juice.
+  Stir to combine.
+3. 3.Place butterflied Lobster Tails into a roasting pan. Divide the marinade evenly over the tops of each lobster tail and dot each tail all over with 1/2 Tbsp of butter cut into smaller pieces
 4. Broil lobster tails on high 10-11 minutes (or according to the lobster tail size – see chart below). When done, lobster meat should be opaque and white in the center and register 145˚F on an instant read thermometer. Transfer lobster tails to a serving platter and garnish with fresh parsley if desired.
 5. To make the Garlic Lemon Butter: drain drippings from the roasting pan into a small saucepan and combine with remaining 2 Tbsp butter, bring to a simmer and remove from heat. Pour over lobster tails or divide into small ramekins and use as dipping sauce.
 
