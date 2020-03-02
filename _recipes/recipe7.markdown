@@ -12,7 +12,7 @@ order:
 
 # Langoustines
 
-This langoustines recipe is perfect for dinner parties.  Quick, a bit showy and totally delicious
+This langoustines recipe is perfect for dinner parties, as a starter or part of a sharing platter.  Quick, a bit showy and totally delicious
 
 
 <!--more-->
