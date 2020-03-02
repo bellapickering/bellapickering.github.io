@@ -9,7 +9,7 @@ tags:
 - Honey
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 8 
 ---
 
 # Honey Mustard Salmon in Foil

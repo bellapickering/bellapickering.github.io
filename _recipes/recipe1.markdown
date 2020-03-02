@@ -7,7 +7,7 @@ tags:
 - Main
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 6 
 ---
 
 # Crayfish
@@ -42,10 +42,3 @@ SALTBUSH BUTTER
 8. Transfer crayfish, flesh-side up, to a baking tray and drizzle with oil. Heat a chargrill pan over high heat and add the crayfish, flesh-side down. Cook for 4 minutes or until slightly charred.
 10. Turn, then, using a spoon, spread flesh with the saltbush butter. Cook for a further 8-10 minutes until the cray fish is just cooked through. Add saltbush leaves to the chargrill for the final 5 minutes of cooking to char slightly.
 12. Serve the crayfish hot, scattered with charred salt bush leaves, lemon wedges and finger lime pearls.
-
-
-
-
-
-- Serves: 6
-- Preparation time: 1 hour

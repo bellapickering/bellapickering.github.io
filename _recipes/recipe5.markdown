@@ -10,7 +10,7 @@ tags:
 - Quick
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 1
 ---
 
 # Barbecued prawns with quick aioli

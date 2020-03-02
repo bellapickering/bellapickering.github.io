@@ -5,14 +5,14 @@ tags:
 - Oysters
 - Starter
 - Easy
-layout: 1
+layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 2
 ---
 
 # Kilpatrick Crumbed Oyster
 
-Topped with smoky bacon, this classic oyster dish is the ultimate aphrodisiac.
+**Topped with smoky bacon, this classic oyster dish is the ultimate aphrodisiac.**
 
 <!--more-->
 

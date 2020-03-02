@@ -9,7 +9,7 @@ tags:
 - starter
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 4
 ---
 
 # Fried Garlic Squid

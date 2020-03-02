@@ -10,7 +10,7 @@ tags:
 - Main Meal
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 5
 ---
 
 # Butter Garlic Herb Broiled Lobster Tails
