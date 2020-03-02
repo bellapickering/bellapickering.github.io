@@ -1,22 +1,22 @@
 ---
-title: Kilpatrick Oyster
+title: Moussaka
 date: 2019-10-19 00:00:00 Z
 tags:
-- Oysters
-- Starter
-- Easy
-layout: 1
+- Greek
+- Meat
+- Hot
+layout: recipe
 excerpt_separator: "<!--more-->"
 order:
 ---
 
-# Kilpatrick Crumbed Oyster
+# Moussaka
 
-Topped with smoky bacon, this classic oyster dish is the ultimate aphrodisiac.
+There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
 
 <!--more-->
 
-[![Kilpatrickoysters](/_uploads/kilpatrickoysters.png)](/_uploads/kilpatrickoysters.png)
+[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
 
 ## Ingredients
 
