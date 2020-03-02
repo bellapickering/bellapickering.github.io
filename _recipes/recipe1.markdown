@@ -12,7 +12,7 @@ order:
 
 # Crayfish
 
-The ultimate summer dish, out of the ordinary but explosive with taste! Perfect for your next long lunch gathering.
+**The ultimate summer dish, out of the ordinary but explosive with taste! Perfect for your next long lunch gathering.**
 
 <!--more-->
 
