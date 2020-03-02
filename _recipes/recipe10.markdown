@@ -10,7 +10,7 @@ tags:
 - Lemon and herbs
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 10 
 ---
 
 # Whole roasted Salmon
