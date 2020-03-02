@@ -7,7 +7,7 @@ tags:
 - South African
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 7
 ---
 
 # Paella
