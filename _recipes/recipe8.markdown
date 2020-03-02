@@ -1,58 +1,53 @@
 ---
-title: Moussaka
+title: Paella
 date: 2019-10-19 00:00:00 Z
 tags:
-- Greek
-- Meat
-- Hot
+- Paella
+- Main
+- South African
 layout: recipe
 excerpt_separator: "<!--more-->"
 order:
 ---
 
-# Moussaka
+# Paella
 
-There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
-
+**This impressive Paella with a South African twist, is perfect for feeding a crowd at a dinner party**
 <!--more-->
 
-[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
+[![Paella](/_uploads/paella.png)](/_uploads/paella.png)
+
+PREP: 40 MINS
+COOK: 1 HR, 10 MINS
 
 ## Ingredients
+- 20-24 raw shell-on king prawns
+- 2 tbsp olive oil
+- 500g monkfish, cut into chunks
+- 1 large onion, finely chopped
+- 500g paella rice
+- 4 garlic cloves, sliced
+- 2 tsp smoked paprika
+- 1 tsp cayenne pepper (optional)
+- pinch of saffron
+- ½ x 400g can chopped tomatoes (save the rest for the stock, below)
+- 500g mussels, cleaned
+- 100g frozen peas
+- 100g frozen baby broad beans handful parsley leaves, roughly chopped
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+_**For the stock**_
+- 1 tbsp olive oil
+- 1 onion, roughly chopped
+- ½ x 400g can chopped tomatoes
+- 6 garlic cloves, roughly chopped
+- 1 chicken stock cube
+- 1 star anise
+
 
 
 ## Method
-
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
-
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
-
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
-
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
-
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
-
-- Serves: 6
-- Preparation time: 1 hour
+1. Peel and de-vein the prawns, reserving the heads and shells. Return the prawns to the fridge.
+2. To make the stock, heat the oil in a large pan over a medium-high heat and add the onion, tomatoes, garlic, and reserved prawn shells and heads. Cook for 3-4 mins, then pour in 2 litres of water and add the stock cube and star anise. Bring to a boil, then simmer for 30 mins. Leave to cool slightly, then whizz in batches in a blender or food processor. Strain through a fine sieve.
+3. Heat the oil in a large paella pan or an extra-large frying pan. Brown the monkfish for a few mins each side, then remove and set aside. Add the onion and fry for 4-5 mins until softened.
+4. Stir in the rice and cook for 30 secs to toast. Add the garlic, paprika, cayenne (if using) and saffron, cook for another 30 secs, then stir in the tomatoes and 1.5 litres of the fish stock. Bring to the boil, then turn down to a simmer and cook, stirring, for about 10 mins (the rice should still be al dente). Return the monkfish to the pan with the prawns, mussels, peas and broad beans.
+5. Cover the pan with a large baking tray, or foil, and cook on a low heat for another 10-15 mins until the mussels are open and the prawns are cooked through. Scatter over the parsley before serving.
