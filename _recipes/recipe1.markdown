@@ -1,58 +1,51 @@
 ---
-title: Moussaka
+title: Grilled King Island Crayfish
 date: 2019-10-19 00:00:00 Z
 tags:
-- Greek
-- Meat
-- Hot
+- Crayfish
+- Grilled
+- Main
 layout: recipe
 excerpt_separator: "<!--more-->"
 order:
 ---
 
-# Moussaka
+# Crayfish
 
-There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
+The ultimate summer dish, out of the ordinary but explosive with taste! Perfect for your next long lunch gathering.
 
 <!--more-->
 
-[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
+[![Grilled Crayfish](/_uploads/grilled-crayfish.png)](/_uploads/grilled-crayfish.png)
 
 ## Ingredients
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+- -1.5kg live King Island cray sh or local rock lobster
+- 1/4 cup (60ml) olive oil
+- 1 cup saltbush leaves or flat-leaf parsley leaves
+- Lemon wedges and finger lime pearls, to serve
+
+SALTBUSH BUTTER
+- 150g unsalted butter, softened
+- 2 tbs finely chopped saltbush leaves or flat-leaf parsley leaves
+- 1 small red chilli, seeds removed, finely chopped
+- 4 garlic cloves, crushed
+- Finely grated zest of 1 lemon
+
 
 
 ## Method
+1. For the saltbush butter, combine all the ingredients in a bowl. Season with salt and pepper, then chill until needed.
+2. Place crayfish in the freezer for 2 hours (this will put it to sleep). Place on its back on a flat, non-slip work surface with claws tied to clearly expose the under surface.
+4. Place a sharp knife on the head beneath the mouth parts. Cut through the head, then backwards towards the tail. Open out to reveal the 2 parts.
+6. Remove and discard the dark intestinal vein, stomach sac and gills. Crack claws slightly in half crossways with a cleaver.
+8. Transfer crayfish, flesh-side up, to a baking tray and drizzle with oil. Heat a chargrill pan over high heat and add the crayfish, flesh-side down. Cook for 4 minutes or until slightly charred.
+10. Turn, then, using a spoon, spread flesh with the saltbush butter. Cook for a further 8-10 minutes until the cray fish is just cooked through. Add saltbush leaves to the chargrill for the final 5 minutes of cooking to char slightly.
+12. Serve the crayfish hot, scattered with charred salt bush leaves, lemon wedges and finger lime pearls.
 
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
 
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
 
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
 
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
-
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
 
 - Serves: 6
 - Preparation time: 1 hour
