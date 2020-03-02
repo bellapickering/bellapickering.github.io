@@ -8,9 +8,11 @@ tags:
 description:
 ---
 
-Isobelle Emily Grace Pickering
+Bella Pickering
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+[![Bella ](/_uploads/bella.png)](/_uploads/bella.png)
+
+
 
 This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
 
