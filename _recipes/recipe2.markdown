@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-#Mud Crab Curry
+# Mud Crab Curry
 
 **Serve this crab curry for a dish that looks as impressive as it tastes**.
 
