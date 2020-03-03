@@ -80,7 +80,7 @@ ul.recipes {
   width: 15%;
   float:right;
   font-size: 60%;
-  position: absolute;
+  position: fixed;
   top:40px;
   right:20px;
 }
