@@ -36,7 +36,7 @@ defaults:
 baseurl: ''
 url: https://bellapickering.github.io
 description: A website with blog posts and recipes
-avatar: assets/img/icon2.jpg
+avatar: assets/img/Avatar.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: true
