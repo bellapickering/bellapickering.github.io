@@ -2,7 +2,7 @@
 layout: post
 title: One Big Happy Family
 date: 2020-02-04 14:05
-published: false 
+published: false
 header_feature_image: Baby.jpeg
 caption:
 tags: Blog
@@ -10,11 +10,11 @@ tags: Blog
 - Zimbabwe  # use [tag1,tag2]
 ---
 I was born in Norton, Mashonaland, Zimbabwe on the 15 December 1997.  I was born into a very regular family, mother (Frances), father (Charles), two older brothers (Jeremy and Alastair) and more recently, sister in law, Imogen.
-[![Pickerings ](/_uploads/pickerings.png)](/_uploads/pickerings.png)
+[![Pickerings ](/_uploads/Pickering.jpg)](/_uploads/Pickering.jpg)
 
 Not to forget our dogs and numerous extras including hamsters,  tortoises and goldfish.  
 
-[![Thula ](/_uploads/thula.png)](/_uploads/thula.png)[![Toffee](/_uploads/toffee.png)](/_uploads/toffee.png)[![Zuri](/_uploads/zuri.png)](/_uploads/zuri.png)[![Baby Tortises](/_uploads/baby-tortises.png)](/_uploads/baby-tortises.png)
+[![Thula ](/_uploads/Thula.jpg)](/_uploads/Thula.jpg)[![Toffee](/_uploads/Toffee.jpeg)](/_uploads/Toffee.jpeg)[![Zuri](/_uploads/Zuri.jpeg)](/_uploads/Zuri.jpeg)[![Baby Tortises](/_uploads/BabyTortise.jpg)](/_uploads/BabyTortises.jpg)
 
 But my family doesn’t stop there, the Mugari/Sofia family is my extended family in term that they have been with us since before I was born, they have been through everything with us and have become a part of our family.  From when I was born, Susan Mugari was my second mother.  [![Shusha](/_uploads/shusha.png)](/_uploads/shusha.png)
 
