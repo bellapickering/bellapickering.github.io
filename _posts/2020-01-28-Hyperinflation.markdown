@@ -2,7 +2,7 @@
 layout: post
 title: Growing up in the Hyperinflationary Period in Zimbabwe
 date: 2020-01-28 14:35
-published: false
+published: true
 header_feature_image: _uploads/Trillion.jpg
 caption:
 tags: blogs
