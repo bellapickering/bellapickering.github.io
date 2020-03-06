@@ -13,7 +13,7 @@ tags: blogs
 ---
 I was 7 years old when Zimbabwe finally descended into official Hyperinflation.  It lasted for a period of approximately five years when Zimbabwe in early 2009 stopped printing the Zimbabwe Dollar and returned to using the US Dollar as its legal tender.  The largest denominated Zimbabwe Dollar note was Z$100,000,000,000,000 – a 100 trillion.
 
-[![OneTrillionDollars](/_uploads/onetrilliondollars.png)](/_uploads/onetrilliondollars.png)
+[![OneTrillionDollars](/_uploads/Trillion.jpg)](/_uploads/Trillion.jpg)
 
 What do I remember about that time?   I for the most part was cushioned from the daily stresses this caused my parents and the general population of Zimbabwe.  I was at a mixed boarding school in a country town far away from the craziness of daily life.  
 At weekends, however, we returned to our parents who were still farming just outside Harare.  Here we were given some exposure to what Hyperinflation really meant.  
