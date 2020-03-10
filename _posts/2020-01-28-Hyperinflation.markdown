@@ -29,4 +29,4 @@ Sadly, the only people that escaped the terrible impact of Hyperinflation were t
 
 [![richvspoor](/_uploads/richvspoor.png)](/_uploads/richvspoor.png)
 
-As I am writing this blog in 2020, Zimbabwe looks like it will be returning to Hyperinflation, inflation is currently running at 473% and the Zimbabwe Dollar versus US $ is currently at 33 : 1.  In some ways it will be worse this time than previous as people remember this terrible period in recent history and know what to expect.  My parents still live in Zimbabwe but all of us children are now living in UK or Australia. 
+As I am writing this blog in 2020, Zimbabwe looks like it will be returning to Hyperinflation, inflation is currently running at 473% and the Zimbabwe Dollar versus US $ is currently at 33 : 1.  In some ways it will be worse this time than previous as people remember this terrible period in recent history and know what to expect.  My parents still live in Zimbabwe but all of us children are now living in UK or Australia.
