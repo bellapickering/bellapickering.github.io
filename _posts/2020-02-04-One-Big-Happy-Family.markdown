@@ -6,8 +6,7 @@ published: true
 header_feature_image: _uploads/Baby.jpeg
 caption:
 tags: Blog
-- Family
-- Zimbabwe  # use [tag1,tag2]
+  # use [tag1,tag2]
 ---
 I was born in Norton, Mashonaland, Zimbabwe on the 15 December 1997.  I was born into a very regular family, mother (Frances), father (Charles), two older brothers (Jeremy and Alastair) and more recently, sister in law, Imogen.
 [![Pickerings ](/_uploads/Pickering.jpg)](/_uploads/Pickering.jpg)
