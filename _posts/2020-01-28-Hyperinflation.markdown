@@ -15,7 +15,7 @@ I was 7 years old when Zimbabwe finally descended into official Hyperinflation. 
 
 [![OneTrillionDollars](/_uploads/Trillion.jpg)](/_uploads/Trillion.jpg)
 
-What do I remember about that time?   I for the most part was cushioned from the daily stresses this caused my parents and the general population of Zimbabwe.  I was at a mixed boarding school in a country town far away from the craziness of daily life.  
+What do I remember about that time? I for the most part was cushioned from the daily stresses this caused my parents and the general population of Zimbabwe.  I was at a mixed boarding school in a country town far away from the craziness of daily life.  
 At weekends, however, we returned to our parents who were still farming just outside Harare.  Here we were given some exposure to what Hyperinflation really meant.  
 Normal life, as one knows it, completely stopped and we became ‘hunters and gatherers.  The basic survival instinct for the human race since time began.  
 I remember my mother having to leave Zimbabwe to go and work in the UK and Zambia to earn the valuable US Dollar. Her company whose main client was a bank, could no longer afford to pay her a salary of any value.  She would commute on a Monday morning up to Lusaka in Zambia and return on the Friday for the weekend.  I quite liked her coming back and bringing us little goodies that she had bought at the local supermarket in Zambia.  I remember distinctly her bringing Easter Eggs – what a treat!
