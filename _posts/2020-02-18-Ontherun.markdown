@@ -1,9 +1,44 @@
 ---
 layout: post
-title: Podcasts
+title: On the Run
 date: 2020-02-18 10:03
-published: false
-header_feature_image:
+published: True
+header_feature_image: _uploads/fire.jpg
 caption:
-tags:    # use [tag1,tag2]
+tags:  Zimbabwe
+    # use [tag1,tag2]
 ---
+About the Farm invasions...
+_In the late 1990s, the government of Zimbabwe held a conference on land reform in Zimbabwe. The government, the interested parties (including the farmers), and international aid agencies reached a broad agreement. That agreement, however, was never implemented. In 2000, in an attempt to destroy the opposition, which derived much support from the commercial farmers and their employees, the government began what it eventually called the “Fast Track Land Reform” exercise.
+Land Reform Ignored the Property Rights of Commercial Farmers.  The government justified the land reform to the rest of the world by arguing that it redressed historical injustices and racial imbalances in the ownership of the land. The land reform ignored the prevailing legal situation with respect to farm ownership. It also ignored the issue of fair and reasonable compensation for assets taken over by the government.
+The legal position was straightforward—commercial farmers held full freehold title. In addition, over 80 percent of the farmers also held a “certificate of no interest” issued by the Zimbabwe government. Under the Zimbabwean law, farmers who wished to sell their farms had to first offer them to the government at a market price. When the government declined to purchase such farms, it issued the farmers with the “certificate of no interest” and the farmers could proceed to sell their farms on the open market. In fact, the government purchased some 3.8 million hectares of farmland in that way between 1980, the year of Zimbabwe’s formal independence from Great Britain, and the commencement of the land reform.
+Farmers who held both the title and the certificates possessed an apparently unassailable legal right to the land and all the improvements they have made on that land. As such, they also had the right to be fully compensated when their assets were taken over by the state.
+Unfortunately, over the last nine years, the government “acquired” thousands of farms without paying market price or, in many cases, any price to the farmers. To accomplish that, the government changed the law every time a farmer or a group of farmers secured legal judgments in their favor. Eventually a group of Zimbabwean farmers took their case to the Southern African Development Community’s Legal Tribunal in Windhoek, Namibia. In 2008, those farmers obtained a decision instructing the government of Zimbabwe to protect the farmers’ legal rights. The government, in spite of being a signatory to the treaty creating the SADC Legal Tribunal, ignored the ruling.
+One small group of affected farmers also enjoyed the protection of a “Bilateral Investment Protection Agreement“  signed between the government of Zimbabwe and foreign farmers. A group of farmers of Dutch origin, who had invested after 1980 and who were protected by the BIPA, took their case to the International Court of Justice in The Hague. In April2009, the Hague tribunal ruled in favor of the Dutch investors and granted them nearly $22 million in compensation.
+The attitude of the members of the Zimbabwean regime toward the farm acquisitions was straightforward—they were “taking the farms” from their owners. No police protection was afforded to the farmers or their staff, and no interference with expropriation was permitted. In the majority of cases, force was used—mainly by groups of young, politically motivated thugs. Those thugs acted on behalf of the future “beneficiaries” of farm expropriations—mostly members of President Robert Mugabe’s ZANU-PF party. Once the owners and their senior staff had been evicted, the new “owners “occupied the land and took advantage of the assets, including crops and livestock._
+
+# The Cost of Zimbabwe’s Continuing Farm Invasions by Eddie Cross, The Cato Institute, May 18, 2009, Economic Development Bulletin No. 12
+
+I was only a baby when this story started.
+
+My father was an ex-Metropolitan Police Officer and returned to Zimbabwe with my mother and two brothers, Jeremy and Alastair in 1993 to farm.  Due to my father’s experience in Security he was requested by the Commercial Farmers Union in 1998 to set up an Agricultural Security Company which was for the purpose of providing farmers with security.  This Company provided security guards from Norton through to Kadoma in Mashonaland West South.  The training base was on Wicklow Farm, Selous, Mashonaland West South.
+
+[![Map of Zimbabwe ](/_uploads/map-of-zimbabwe.png)](/_uploads/map-of-zimbabwe.png)
+
+Unfortunately, it was deemed by the political party as a ‘private army’ for the commercial farmers against the politically motivated thugs who were supposed to be “war veterans”. These thugs soon came to known as War Vets, and posed extreme threat to the white farmers.   It was ordered to close down and given 12 hours’ notice to vacate by the armed wing of the ruling political party.  Overnight 200 security guards lost their jobs and farmers became vulnerable as the local police were complicit in the actions of the thugs.
+[!["Warvets"](/_uploads/warvets.png)](/_uploads/warvets.png)
+
+Sometime a few weeks later on a beautiful sunny day during a Norton/Kadoma cricket match at Norton Country Club, my dad was busy on the field when one of his lifelong friends from the Kadoma side handed him his cellphone because the caller was insistent on speaking to my father.   This ended up with a death threat from a local political heavyweight and a thus my father was forced to be ‘On the Run’.
+It continued with the arrival of thugs at our gate, where they stayed the whole night “toy-toying” which is basically where they dance and sing revolutionary songs induced by drugs and alcohol, waving machete’s and knob kerrie’s in a very threatening manner and restricting movement from the homestead.  These thugs could number in excess of 50 and could last 2-3 days until fatigue and hunger set in as they had no back up.  Our poor farm staff were beaten if they tried to assist us.
+[![Warvets harrasing people at their gates](/_uploads/warvets-harrasing-people-at-their-gates.png)](/_uploads/warvets-harrasing-people-at-their-gates.png)
+
+_the above photo is not of my family, or anyone i know, but represent the reality of the thugs and their actions, which caused fear and distress_
+
+As you can imagine, this was a terrible shock to my family.  We were currently living on a farm in Norton but my mother decided that she couldn’t stay on the farm with me as a young child and wanted to move to town, especially after the death threat.  We rented a small two bedroomed duplex in Harare.  Here we moved, together with my Nanny, Shusha.  My brothers were luckily away at boarding school so were very protected from the goings on.  
+My father couldn’t spend more that two nights in any one location and moved around both town and Norton hosted by farming and town friends.  
+
+One of my earliest memories, was at this townhouse, when my father was staying.  Early one morning, around 2am, Shusha ran through to my parents and told my father to run.  She had heard a commotion at the entrance to the complex and had watched several men run through the gate.  Distressed my father had climbed out of the window and shinned down the drainpipe, however we discovered that in fact it was all very innocent.  The poor security guard had collapsed and these men were passing by after finishing the late shift at the airport, and had come through to get help.  However, it did gives us all quite a fright.
+
+After nearly two years of my father receiving this death threat and him being on the run, slowly, interest and people’s memories began to fade and other events took center stage during the land invasions and our lives could return to as normal as possible in the chaotic Zimbabwe.
+
+[![My dad and I on the farm ](/_uploads/my-dad-and-i-on-the-farm.png)](/_uploads/my-dad-and-i-on-the-farm.png)
