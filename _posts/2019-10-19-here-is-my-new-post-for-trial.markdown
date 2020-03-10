@@ -2,10 +2,10 @@
 title: Sample Post Blog
 date: 2019-10-19 00:00:00 Z
 tags:
-published: False 
 - Journalism
 - Life
 - Food
+published: False 
 layout: post
 header_feature_image: _uploads/Waves.jpg
 caption: Waves
