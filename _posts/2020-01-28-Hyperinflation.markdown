@@ -5,10 +5,7 @@ date: 2020-01-28 14:35
 published: true
 header_feature_image: _uploads/Trillion.jpg
 caption:
-tags: blogs
-- Zimbabwe
-- Hyperinfaltion  
-- Trillion Dollars
+tags:
   #Zimbabwe #Hyperinflation
 ---
 I was 7 years old when Zimbabwe finally descended into official Hyperinflation.  It lasted for a period of approximately five years when Zimbabwe in early 2009 stopped printing the Zimbabwe Dollar and returned to using the US Dollar as its legal tender.  The largest denominated Zimbabwe Dollar note was Z$100,000,000,000,000 – a 100 trillion.
