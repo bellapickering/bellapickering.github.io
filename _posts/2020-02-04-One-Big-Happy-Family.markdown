@@ -3,7 +3,7 @@ layout: post
 title: One Big Happy Family
 date: 2020-02-04 14:05
 published: true
-header_feature_image: Baby.jpeg
+header_feature_image: _uploads/Baby.jpeg
 caption:
 tags: Blog
 - Family
@@ -31,4 +31,4 @@ Shusha has been on many adventures with us as a family.  One of the earliest was
 When I will still quite young we took Shusha on a plane to Cape Town, South Africa.  Poor Shusha was terrified and gripped the sides of the seat for dear life!  Even worse was when we took her up the cable car at Table mountain.  She dropped to the floor in shear terror and was very happy when we returned to terre ferme.  However, she soon got the hang of eating seafood and to much amusement from friends could be heard to ordering her calamari!
 Everybody loves Shusha, my parents, brothers and all my friends.  She has such tremendous zest for life.  She makes the best roast potatoes ever and is a legend at dancing!
 She has managed to embrace technology, which is very impressive as she is 60 years old with very limited education but now is a proud owner of her own Amazon Fire where she downloads recipes, whatsapp’s and follows facebook and youtube so that she can follow her Prophet.  
-When I go home she spoils me rotten, still calls me her baby. Life wouldnt be the same without Shusha and Orbit and their family. 
+When I go home she spoils me rotten, still calls me her baby. Life wouldnt be the same without Shusha and Orbit and their family.
