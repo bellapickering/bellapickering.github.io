@@ -1,8 +1,9 @@
+/*! CSS adapted from  type theme */
 html {
     font-family: "Arial Black", Gadget, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
-    background: #fff;
+    background: #99CCFF;
 }
 
 .post-content h1, .excerpt h1 {
@@ -10,11 +11,11 @@ html {
 }
 
 div.content {
-width:70%;
+/* width:70%;
 margin:12px auto;
 
   padding: 12px;
-  background: white;
+  background: white; */
 }
 
 img {
@@ -38,19 +39,28 @@ body {
     font-size: 1.25em;
     background: #cae1ff;
 }
-body.recipeshome {
-background: #66ccff;
 
+
+body.recipeshome, body.recipelist, body.recipe {
+  width:70%;
+  margin:12px auto;
+
+    padding: 12px;
+    background: white;
+max-width: 950px;
+}
+
+body.recipe {
+width:60%;
 }
 
 h1.recipeshome{
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 2.5em;
 }
 
 h1.site-title {
 font-size: 2.5em;
-
 }
 
 img.cover {
@@ -88,13 +98,22 @@ hr {
 }
 
 a {
-    color: #337ab7;
+    color: #6699CC;
     text-decoration: none
 
 }
 body.recipelist a {
-  color: blue
+  color: black;
 }
+
+body.recipelist h1.site-title a {
+  color: #6699CC;
+}
+
+.post-teaser h1 {
+  font-family: georgia;
+}
+
 /* for a menu for all recipes */
 ul.recipes {
   border: 1px solid gray;
@@ -104,4 +123,43 @@ ul.recipes {
   position: fixed;
   top:40px;
   right:20px;
+  list-style: none;
+  padding:4px;
+  margin:0;
+  background: white;
+}
+
+ul.recipes li {
+padding:0;
+margin:0;
+text-indent: 0;
+}
+
+@media only screen and (max-width: 600px) {
+
+
+
+  img.cover, img {
+  float:none;
+  width:100%;
+  margin:0;
+  max-width: none;
+  }
+
+  body.recipeshome, body.recipe {
+    width:90%;
+      padding: 0;
+  }
+
+  html {
+    background: white;
+  }
+
+  h1.site-title {
+  font-size: 1.5em;
+  }
+
+  ul.recipes {
+    display:none;
+
 }
