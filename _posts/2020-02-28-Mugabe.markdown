@@ -2,7 +2,7 @@
 layout: post
 title: Our Life under Robert Mugabe, President of Zimbabwe
 date: 2020-02-28 10:53
-published: false
+published: True
 header_feature_image: _uploads/mugabe.jpg
 caption: President Robert Mugabe
 tags:
