@@ -3,7 +3,7 @@ layout: post
 title: The dangerous impact of inaccurate reporting by International Journalists’ in there aim to create sensational new stories.
 date: 2020-04-08 13:51
 published: True
-header_feature_image: _uploads/Vicfalls.jpg
+header_feature_image: _uploads/Vicfalls .jpg
 caption: The Smoke that thunders
 tags:    # use [tag1,tag2]
 ---
