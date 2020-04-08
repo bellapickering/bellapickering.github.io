@@ -10,7 +10,7 @@ tags:    # use [tag1,tag2]
 I have always wanted to understand more of what my Godfather and so decided to take the opportunity to interview him for one of my blogs.  
 
 **Who do you work for and what is their role in Conservation in Zimbabwe?****
-I work with the Zambezi Society(ZAMSOC) which is a Zimbabwe based conservation organisation. 
+I work with the Zambezi Society(ZAMSOC) which is a Zimbabwe based conservation organisation.
 [![ZAMSOC](/_uploads/zamsoc.png)](/_uploads/zamsoc.png)
 
 _ZAMSOC was formed in the early 1980s for the purpose of lobbying against the proposed damming of the Mupata and Batoka Gorges on the Zambezi River.
@@ -34,3 +34,7 @@ Historically our main areas of focus have always been the Matusadona and Mana Po
 [![Leopard](/_uploads/leopard.png)](/_uploads/leopard.png)
 
 Over the last three years ZAMSOC has expanded quite significantly taking on more staff with the various roles becoming more specialised.  With these new developments my role has shifted to co-ordinating our ‘Combating Wildlife Crime’ initiative. This initiative is a collaboration between ZAMSOC and the International Anti-Poaching Foundation (IAPF). This is a ‘landscape’ model which involves collaborating with other anti-poaching initiatives and very often playing a co-ordinating role.
+
+Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much appreciated job. without these men and the challenges they face day to day, African wildlife would be in danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected. 
+
+[![Pete and I at World View Nyanga ](/_uploads/pete-and-i-at-world-view-nyanga.png)](/_uploads/pete-and-i-at-world-view-nyanga.png)
