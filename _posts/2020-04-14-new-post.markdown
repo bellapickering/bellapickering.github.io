@@ -1,9 +1,0 @@
----
-layout: post
-title: New Post
-date: 2020-04-14 14:06
-published: false
-header_feature_image:
-caption:
-tags:    # use [tag1,tag2]
----
