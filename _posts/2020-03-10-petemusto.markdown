@@ -35,6 +35,19 @@ Historically our main areas of focus have always been the Matusadona and Mana Po
 
 Over the last three years ZAMSOC has expanded quite significantly taking on more staff with the various roles becoming more specialised.  With these new developments my role has shifted to co-ordinating our ‘Combating Wildlife Crime’ initiative. This initiative is a collaboration between ZAMSOC and the International Anti-Poaching Foundation (IAPF). This is a ‘landscape’ model which involves collaborating with other anti-poaching initiatives and very often playing a co-ordinating role.
 
-Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much appreciated job. without these men and the challenges they face day to day, African wildlife would be in danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected. 
+**Out of all your many years of conservation, what moment has stuck with you the most?**
+Over the years I’ve had some amazing experiences in the bush and it’s been an absolute privilege to have had the opportunities that I’ve had to spend time in these very special places. The more time I spend out there the more I love being out there and I try not to ever take it for granted.
+
+Overseeing the camera trap programme in Matusadona gave me an insight into the lives of various species which very few people get to witness. For example, following a female leopard and her three very small cubs, routinely visiting a water hole, and following their progress and demise. Initially three cubs then, after a month or so, down to two and then just one.
+
+I have also had the privilege of getting to know, and sometimes to work alongside, some exceptional people involved in conservation in different ways. Some of them from my own organisation, some from other organisations and some from government departments. Knowing that these people are out there contributing to the cause helps to keep me motivated when the chips are down.
+
+Unfortunately, there is a downside to being involved in conservation and that is the constant threat of poaching and from time to time witnessing first-hand the results of poachers handy work. Coming across the carcasses of poached elephant, with their faces cut off in order to remove the tusks, is always very traumatic and something that you never forget
 
 [![Pete and I at World View Nyanga ](/_uploads/pete-and-i-at-world-view-nyanga.png)](/_uploads/pete-and-i-at-world-view-nyanga.png)
+
+Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much appreciated job. without these men and the challenges they face day to day, African wildlife would be in danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected. 
+
+
+
+_No mention of specific people or incidents, mainly because Pete has been bound by a ‘non-disclosure agreement. _
