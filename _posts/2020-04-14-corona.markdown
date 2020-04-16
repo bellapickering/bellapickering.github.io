@@ -3,12 +3,14 @@ layout: post
 title: Rehabilitation of Schools in Remote Zimbabwe
 date: 2020-04-14 14:06
 published: false
-header_feature_image: _uploads/PAF LOGO.JPG
+header_feature_image: _uploads/Children.JPG
 caption: Phyllis Aspinal Foundation
 tags:    # use [tag1,tag2]
 ---
 My father worked for 5 years with a UK foundation to help rehabilitate schools in a very remote area of Zimbabwe.
 The foundation was called the Phyllis Aspinall Foundation and Phyllis was a close friend to our UK relatives.
+
+[![PAF Logo](/_uploads/paf-logo.png)](/_uploads/paf-logo.png)
 
 _An interview With Charles Pickering_
 
@@ -55,3 +57,4 @@ The whole community was involved with access roads being worked on by a team led
 **What was the end result?**
 After 5 years the team and Ivan had renovated the schools, provided housing, water and sanitation for the teachers and pupils and improving the health facilities of the local clinic.
 The outcome of the initiative has yielded great benefits to a remote area of Zimbabwe and the standard of education to the area through the work undertaken and have given hope to a lost community and young people.
+[![Students ](/_uploads/students.png)](/_uploads/students.png)
