@@ -1,14 +1,14 @@
 ---
 layout: post
 title: On the Run
-date: 2020-02-18 10:03
+date: 2020-02-28 10:53
 published: True
 header_feature_image: _uploads/fire.jpg
 caption:
 tags:  Zimbabwe
     # use [tag1,tag2]
 ---
-The Farm invasions and the scary realities that were bought along with it. 
+The Farm invasions and the scary realities that were bought along with it.
 
 _In the late 1990s, the government of Zimbabwe held a conference on land reform in Zimbabwe. The government, the interested parties (including the farmers), and international aid agencies reached a broad agreement. That agreement, however, was never implemented. In 2000, in an attempt to destroy the opposition, which derived much support from the commercial farmers and their employees, the government began what it eventually called the “Fast Track Land Reform” exercise.
 Land Reform Ignored the Property Rights of Commercial Farmers.  The government justified the land reform to the rest of the world by arguing that it redressed historical injustices and racial imbalances in the ownership of the land. The land reform ignored the prevailing legal situation with respect to farm ownership. It also ignored the issue of fair and reasonable compensation for assets taken over by the government.
