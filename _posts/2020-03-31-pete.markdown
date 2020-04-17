@@ -6,6 +6,7 @@ published: true
 header_feature_image: _uploads/flag .png
 caption: A little of my History in Zimbabwe
 tags:    # use [tag1,tag2]
+order: 1
 ---
 
 Cecil John Rhodes pioneered and established Rhodesia in 1890. The British colonial state where my Great Great Grandmother was born. 90 years later the British colony became the independent state of Zimbabwe.
