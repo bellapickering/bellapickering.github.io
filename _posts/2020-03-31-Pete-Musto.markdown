@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An interview with Peter Musto, Conservationalist in Zimbabwe
-date: 2020-03-10 22:40
+date: 2020-03-31 22:40
 published: true
 header_feature_image: _uploads/Matusadona.jpg
 caption:
@@ -46,7 +46,7 @@ Unfortunately, there is a downside to being involved in conservation and that is
 
 [![Pete and I at World View Nyanga ](/_uploads/pete-and-i-at-world-view-nyanga.png)](/_uploads/pete-and-i-at-world-view-nyanga.png)
 
-Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much appreciated job. without these men and the challenges they face day to day, African wildlife would be in danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected. 
+Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much appreciated job. without these men and the challenges they face day to day, African wildlife would be in danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected.
 
 
 
