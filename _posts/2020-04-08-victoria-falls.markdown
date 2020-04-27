@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The dangerous impact of inaccurate reporting by International Journalists’ in there aim to create sensational new stories.
+title: The Dangerous Impact of Inaccurate Reporting by International Journalists’ in their aim to Create Sensational New Stories.
 date: 2020-04-08 13:51
 published: True
 header_feature_image: _uploads/Vicfalls .jpg
 caption: The Smoke that thunders
 tags:    # use [tag1,tag2]
 ---
-On Tuesday 25th  and 26th November 2019, a video was broadcast on Hardtalk on BBC World News and the BBC New Channel. The journalist was Stephen Sackur.  The film was titled Could Victoria Falls dry up?
+On Tuesday 25th  and 26th November 2019, a video was broadcast on Hardtalk on BBC World News and the BBC News Channel. The journalist was Stephen Sackur.  The film was titled Could Victoria Falls dry up?
 The basic premise to the story is that Victoria Falls is drying up due to the effects of drought and climate change.
 This was followed on by another video on 4th December 2019 by Sky’s journalist, Alex Crawford entitled  “Climate change: Sight of Victoria Falls cut to a trickle is heartbreaking”
 [![Dried up Victoria Falls](/_uploads/dried-up-victoria-falls.png)](/_uploads/dried-up-victoria-falls.png)
@@ -28,6 +28,7 @@ Others have said that you twisted what they said, loading the questions you aske
 You totally ignored others who tried to reason with you over what you were saying.
 You now stand here among the locals as a sham, the creator of falsified news and the manipulator of facts.
 I personally got hold of you at the airport before you flew out to offer you some points you had neglected to mention because I was already hearing reports from people that you were trying to give a twisted picture of what was really happening here. You indicated that you would get in touch with me to clarify things and get the story straight.
+
 To date you have done absolutely nothing. How insincere you have turned out to be. We are all worried about the effects of climate change. The climate has been changing constantly over many generations, but between 1914 and 1924, we had five of the lowest years of the river on record, and yet no comment has been made about the climate creating the problem back then.
 It is quite normal to have a very high water level every 10 years or so (2018, 2009, 1997, 1969, 1958) as much it is normal to have very low year, one too each decade (2015, 2005, 1995), none which you made a mention of during your various reports.
 You clearly came here with a set agenda, and you had every aim of sticking to this despite people telling you that perhaps your story was out of kilter with reality.
@@ -58,15 +59,18 @@ But let us all at the Victoria Falls in Zimbabwe and Zambia tell you something, 
 Research your work next time properly and thoroughly like a professional should do and get the story right. Getting an apology out of you and a full retraction would of course be as likely as say . . . The Victoria Falls themselves completely drying up as you told us might actually happen.
 Let us see if you have the moral courage to eat humble pie.”
 To date, it would seem that Alex Crawford has never responded to this letter.
+
 In addition, The African Travel and Tourism Association Chairman, Ross Kennedy issued a statement to the fact that “media speculation that Victoria Falls may be drying up is entirely false.”  
 He goes on to say that “according to local river experts, there would always be water in Victoria Falls on the Zimbabwean side between the Livingstone statue and Livingstone Island.”
 “Victoria Falls will never become Victoria Walls” said Ross.
 Ross adds “due to exceptionally low rainfall in the catchment area during the last rainy season, the water level is at its lowest since 1996 and levels will continue to drop as usual until the rains start in the catchment area upstream.”
+
 So moving on to 31 March 2020, according to the Bhejane Trust “The floodwaters of the Zambezi have hit Victoria Falls and Kariba, the river has risen quickly and the lake is starting to fill.  This is the biggest flood since 1977/78, which is the biggest flood since records started in the sixties.  However, there is now a second wave coming through Chamvuma (on the Angola/Zambia border) which looks as big as the first wave.  The difference is the Barotse flood plain is now full and this wave will sweep over it.  All the water will be channeled through to the the Falls and into Kariba.  I predict this will be the biggest flood since the Kariba Dam wall floods of 1958.”_
 
  The picture below was taken by the Africa Albida drone camera on the 2nd April 2020.
  [![Drone picture April 2020](/_uploads/drone-picture-april-2020.png)](/_uploads/drone-picture-april-2020.png)
 
  It is amazing what nature does, the sad thing is that Victoria Falls will not have the tourists to witness this incredible event.
+
  Obviously now, the world is in a different situation, with Covid-19, and nobody could have predicted this terrible event.  That aside, I wonder how long it will take for Victoria Falls and the rest of Zimbabwe to recover from this terrible misjustice caused by irresponsible reporting by international journalists wanting to get a sensational report without doing the necessary research.
  The irony of it all is that Alex Crawford’s fears “that tourism will be hit in a part of Africa that desperately needs the income” actually have been realised – not because of Victoria Falls drying up but because of her and other journalists irresponsible reporting.
