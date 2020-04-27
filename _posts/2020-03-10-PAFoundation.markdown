@@ -12,7 +12,7 @@ The foundation was called the Phyllis Aspinall Foundation and Phyllis was a clos
 
 [![PAF Logo](/_uploads/paf-logo.png)](/_uploads/paf-logo.png)
 
-_An interview With Charles Pickering_
+_An Interview with Charles Pickering_
 
 **How did this all come about?**
 In March of 2010, I was asked to take on the role of Operations Manager to rehabilitate schools in the north western region of Zimbabwe, in the district of Binga.  This remote part of the country is a hostile part of the country with very limited infrastructure to access the area.  Two options were available to access the area.  A long journey by 4-wheel drive through Gokwe to the top of the Escarpment at Siakobvu down into the shoreline of Lake Kariba or alternatively by road again to the town of Kariba then a boat ride across the lake to Bumi Hills
