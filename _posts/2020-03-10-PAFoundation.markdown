@@ -19,12 +19,13 @@ In March of 2010, I was asked to take on the role of Operations Manager to rehab
 
 **Tell me about your initial reconnaissance trip**
 My initial reconnaissance trip to evaluate the extent of the project ahead was conducted in early March, just after the seasonal rains, as during the rainy season the area becomes locked off from the rest of the country due to the lack of good roads.
-I based myself at Bumi Hills hotel which was in the process of being refurbished.  From the lodge I was kindly given a driver and a Toyota 4 x 4 pickup to drive into the hinterland.
-Our first destination was the village of Mola where I was introduced in the traditional manner to Chief Mola.  I appraised him of our intentions to rehabilitate three schools in his jurisdiction being Mola primary and secondary school which after years of neglect and lack of financial input were in a sad state of disrepair.
+I based myself at Bumi Hills Hotel which was in the process of being refurbished.  From the lodge I was kindly given a driver and a Toyota 4 x 4 pickup to drive into the hinterland.
+
+Our first destination was the village of Mola where I was introduced in the traditional manner to Chief Mola.  I appraised him of our intentions to rehabilitate three schools in his jurisdiction being Mola primary and secondary school and Kalundu Primary school, which after years of neglect and lack of financial input were in a sad state of disrepair.
 Initial evaluation uncovered a multitude of structural issues with the classrooms and staff quarters with a lack of ablution blocks and piped water.  Roofing sheets were badly damaged and in general the task ahead was a monumental one to say the least.
 
 
-[![Cheif Champion With Charles Pickering at the foundation launch ](/_uploads/cheif-champion-with-charles-pickering-at-the-foundation-launch.png)](/_uploads/cheif-champion-with-charles-pickering-at-the-foundation-launch.png)\
+[![Chief in Mola with Charles Pickering at the foundation launch ](/_uploads/cheif-champion-with-charles-pickering-at-the-foundation-launch.png)](/_uploads/cheif-champion-with-charles-pickering-at-the-foundation-launch.png)\
 
 **What followed the initial evaluation?**
 I returned to Harare to brief the donors and start getting a team together and the big job of putting the materials and logistic together.
@@ -40,15 +41,15 @@ Once the truck was loaded, we then began the arduous task of getting to Mola, br
 On our arrival the news had already filtered through the community and we were greeted by hundreds of villagers from Mola and the surrounding villages
 [![Materials on the Sea Lion](/_uploads/materials-on-the-sea-lion.png)](/_uploads/materials-on-the-sea-lion.png)
 
-[![offloading](/_uploads/offloading.png)](/_uploads/offloading.png)
+[![Offloading the Ferry](/_uploads/offloading.png)](/_uploads/offloading.png)
 [![driving off the Sea Ferry ](/_uploads/driving-off-the-sea-ferry.png)](/_uploads/driving-off-the-sea-ferry.png)
 
 **How did you run the project?**
 A nearby Island called Musango was to become our base for the duration of this mammoth task at hand.  My first task was to hire a work force with the skills required to undertake the refurbishment of the schools. From builders, carpenters, welders and plumbers we assembled a group of locals that would be engaged on this project for the next five years.
-[![The Paf Team](/_uploads/the-paf-team.png)](/_uploads/the-paf-team.png)
+[![The PAF Team](/_uploads/the-paf-team.png)](/_uploads/the-paf-team.png)
 
 The Project Manager, Ivan and his wife were resident on Musango and would be on site throughout the project supervising his work force.
-[![Ivan and his wife](/_uploads/ivan-and-his-wife.png)](/_uploads/ivan-and-his-wife.png)
+[![Ivan and Nora](/_uploads/ivan-and-his-wife.png)](/_uploads/ivan-and-his-wife.png)
 
 Additional equipment was procured in Harare including a Toyota Landcruiser 4x4 which was required to get Ivan to site, as well as, a Fiat 500 tractor and trailer to cart building materials to site from around the area.
 Bricks were manufactured on site using the latest block technology to reduce the use of cement, they interlocked together and meant we could build a 5 roomed barrack style block for teacher accommodation in two weeks.
