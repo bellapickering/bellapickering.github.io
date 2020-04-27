@@ -3,7 +3,7 @@ layout: post
 title: Our Life After Mugabe
 date: 2020-03-21 12:20
 published: True
-header_feature_image: _uploads/party.jpeg
+header_feature_image: _uploads/EDM.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
