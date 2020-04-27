@@ -7,7 +7,7 @@ header_feature_image: _uploads/Matusadona.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
-I have always wanted to understand more of what my Godfather and so decided to take the opportunity to interview him for one of my blogs.  
+I have always wanted to understand more of what my Godfather does and so decided to take the opportunity to interview him for one of my blogs.  
 
 **Who do you work for and what is their role in Conservation in Zimbabwe?****
 I work with the Zambezi Society(ZAMSOC) which is a Zimbabwe based conservation organisation.
@@ -46,7 +46,7 @@ Unfortunately, there is a downside to being involved in conservation and that is
 
 [![Pete and I at World View Nyanga ](/_uploads/pete-and-i-at-world-view-nyanga.png)](/_uploads/pete-and-i-at-world-view-nyanga.png)
 
-Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much appreciated job. without these men and the challenges they face day to day, African wildlife would be in danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected.
+Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much appreciated job. Without these men and the challenges they face day to day, African wildlife would be in danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected.
 
 
 
