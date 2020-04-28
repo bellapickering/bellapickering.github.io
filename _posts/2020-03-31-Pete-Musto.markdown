@@ -48,10 +48,6 @@ I have also had the privilege of getting to know, and sometimes to work alongsid
 
 Unfortunately, there is a downside to being involved in conservation and that is the constant threat of poaching and from time to time witnessing first-hand the results of poachers handy work. Coming across the carcasses of poached elephant, with their faces cut off in order to remove the tusks, is always very traumatic and something that you never forget
 
-[![Pete and I at World View Nyanga ](/_uploads/pete-and-i-at-world-view-nyanga.png)](/_uploads/pete-and-i-at-world-view-nyanga.png)
+[![Pete and I at World's View, Nyanga ](/_uploads/pete-and-i-at-world-view-nyanga.png)](/_uploads/pete-and-i-at-world-view-nyanga.png)
 
-Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much appreciated job. Without these men and the challenges they face day to day, African wildlife would be in danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected.
-
-
-
-No mention of specific people or incidents, mainly because Pete has been bound by a ‘non-disclosure agreement.
+Pete and many others within these conservation groups play a vital role in conserving Zimbabwe's spectacular wildlife. A very challenging job, and very much applauded job. Without these men and the challenges they face day to day, African wildlife would be in far greater danger. I am so lucky to have Pete as my godfather. His work and passion is admirable and highly respected.
