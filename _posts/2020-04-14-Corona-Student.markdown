@@ -9,7 +9,7 @@ tags:    # use [tag1,tag2]
 ---
 We all knew it was coming, but it still managed to take us by surprise. With the general stresses of a third year student, the impending chaos swept everyone away.
 
-I live in a house with all International students, so the conversation was constant about Covid-19, and much panic was caused. With social media blowing up and students complaining and petitioning for the university to close, so much uncertainty was around as what was going to happen in the coming days.
+I live in a house with all international students, so the conversation was constant about Covid-19, and much panic was caused. With social media blowing up and students complaining and petitioning for the university to close, so much uncertainty was around as what was going to happen in the coming days.
 
 Overnight the panic increased, an upheaval of every international student wondering what to do and fleeing as quickly as possible.
 
@@ -20,7 +20,7 @@ We were all in the house when Brookes sent the email confirming the University w
 
 [![Brookes Email](/_uploads/brookes-email.png)](/_uploads/brookes-email.png)
 
-Suddenly We had out last day at uni, we had attended our last lecture and we never even realised. Our email inboxes flooded with emails from lecturers and societies. Facebook events we had all looked forward to as our last time, were "postponed", and even more distressing- Graduation, "postponed".
+Suddenly we had our last day at uni, we had attended our last lecture and we never even realised. Our email inboxes flooded with emails from lecturers and societies. Facebook events we had all looked forward to as our last time, were "postponed", and even more distressing- Graduation, "postponed".
 
 I may not be in the demographic worst effected by Covid 19 in terms of health, however the virus has affected my mental health in various ways! Many frantic calls were made to my parents in order to help decide on of the hardest decisions being, do I fly back home to Zimbabwe to be with my family, or stay in the UK?
 
@@ -39,4 +39,4 @@ One of the hardest things was saying goodbye to all my housemates, not knowing w
 
 After seeing everyone go home and be with their families, with the airports shutting there is such a hopeless feeling, so much uncertainty.
 
-What is to come after all of this, what further chaos will Corona virus cause?
+What is to come after all of this, what further chaos will Covid-19 cause?
